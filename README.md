@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roald-611
 - 👀 I’m interested to make word More Smarter with smart codes 
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with new samrters
 - 📫 How to reach me :mail kanavaru611@gmail.com 
 
 <!---
